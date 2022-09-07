@@ -4,6 +4,7 @@
 !*.*
 
 # Exclude folders
+archive/
 .bmx/
 .vscode/
 .bls-cache/
